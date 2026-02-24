@@ -11,8 +11,8 @@ This project represents more than a dashboard. It represents my transition into 
 
 🎯 Project Objective
 Analyze Amazon India e-commerce sales performance to evaluate revenue trends, profitability, product performance and category contribution — in order to support strategic and operational decision-making.
-Every visual, every measure, every design decision in this dashboard was built to serve that objective. Nothing exists on this dashboard without a business reason.
-
+Every visual, every measure, every design decision in this dashboard was built to serve that objective. Nothing exists on this dashboard without a business reason
+![Executive Dashboard Overview](Executive_Overview)
 📁 Repository Contents
 To interact with the dashboard download the .pbix file and open it in Power BI Desktop which is completely free to download. All visuals, slicers, drill-downs and measures are fully functional. The dashboard is also shared as static screenshots for quick viewing directly on GitHub.
 The repository contains the full Power BI Desktop file, static screenshots of the executive dashboard and semantic model, and the full 10-slide portfolio presentation.
